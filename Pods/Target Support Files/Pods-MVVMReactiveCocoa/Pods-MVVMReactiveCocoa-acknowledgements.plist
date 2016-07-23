@@ -644,7 +644,7 @@ Do you agree to be bound by the terms of this agreement?
 			<key>FooterText</key>
 			<string>The MIT License (MIT)
 
-Copyright (c) 2014 Sebastian Dobrincu
+Copyright (c) 2016 Sebastian Dobrincu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -765,15 +765,6 @@ THE SOFTWARE.
 </string>
 			<key>Title</key>
 			<string>UIActivityIndicator-for-SDWebImage</string>
-			<key>Type</key>
-			<string>PSGroupSpecifier</string>
-		</dict>
-		<dict>
-			<key>FooterText</key>
-			<string>Copyright 2011 - 2015 UMeng.com. All rights reserved.
-</string>
-			<key>Title</key>
-			<string>UMengSocial</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
 		</dict>
